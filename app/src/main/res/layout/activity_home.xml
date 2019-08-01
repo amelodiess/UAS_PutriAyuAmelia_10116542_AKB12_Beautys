@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/polos"
+    android:background="@drawable/lb"
     tools:context="com.android.mels.HomeActivity">
 
     <android.support.design.widget.BottomNavigationView
@@ -24,7 +24,6 @@
         android:id="@+id/main_frame"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@drawable/polos"
         android:layout_above="@id/main_nav">
 
     </FrameLayout>
