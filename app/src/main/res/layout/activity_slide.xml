@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/satu"
-    tools:context="com.android.mels.PagerAdapterActivity">
+    tools:context="com.tugas.mels.PagerAdapterActivity">
 
     <TextView
         android:layout_width="match_parent"

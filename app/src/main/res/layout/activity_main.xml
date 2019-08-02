@@ -6,6 +6,6 @@
     android:layout_height="match_parent"
     android:background="@drawable/awal"
     android:orientation="vertical"
-    tools:context="com.android.mels.MainActivity">
+    tools:context="com.tugas.mels.MainActivity">
 
 </android.support.constraint.ConstraintLayout>

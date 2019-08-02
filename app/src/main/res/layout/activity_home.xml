@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/lb"
-    tools:context="com.android.mels.HomeActivity">
+    tools:context="com.tugas.mels.HomeActivity">
 
     <android.support.design.widget.BottomNavigationView
         android:id="@+id/main_nav"

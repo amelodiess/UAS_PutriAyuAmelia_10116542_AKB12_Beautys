@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:padding="10dp"
     android:background="@drawable/lb"
-    tools:context="com.android.mels.SkincareFragment">
+    tools:context="com.tugas.mels.SkincareFragment">
 
     <!-- TODO: Update blanka fragment layout -->
     <TextView

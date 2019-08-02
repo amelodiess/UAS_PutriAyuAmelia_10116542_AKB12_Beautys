@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.android.ceritamahasiswaa">
+    package="com.tugas.mels">
     <uses-permission android:name="android.permission.INTERNET"/>
     <application
         android:allowBackup="true"
@@ -10,10 +10,10 @@
         android:roundIcon="@drawable/dddd"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.android.mels.PagerAdapterActivity" />
-        <activity android:name="com.android.mels.WalkthroughActivity" />
-        <activity android:name="com.android.mels.HomeActivity" />
-        <activity android:name="com.android.mels.MainActivity">
+        <activity android:name="com.tugas.mels.PagerAdapterActivity" />
+        <activity android:name="com.tugas.mels.WalkthroughActivity" />
+        <activity android:name="com.tugas.mels.HomeActivity" />
+        <activity android:name="com.tugas.mels.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
