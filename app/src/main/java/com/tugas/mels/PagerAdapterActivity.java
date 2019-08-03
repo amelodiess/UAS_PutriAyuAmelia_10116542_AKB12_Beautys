@@ -1,10 +1,4 @@
-package com.tugas.mels;
 
-/*
-    Tanggal Pengerjaan: 03-Mei-2019
-    NIM     : 10116514
-    Nama    : Albert Afriadi Sigiro
-    Kelas   : AKB-12
  */
 
 import android.content.Context;
